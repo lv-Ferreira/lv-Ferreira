@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá, Meu nome é Leonardo e sou um Full Stack Developer! 💻
 
 <div align="center">
   <a href="https://github.com/lv-Ferreira">
